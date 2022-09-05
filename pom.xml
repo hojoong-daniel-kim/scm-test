@@ -31,8 +31,8 @@
   </dependencies>
 
   <scm>
-    <connection>scm:git:https://github.com/hojoong-daniel-kim/scm-test.git</connection>
-    <developerConnection>scm:git:https://github.com/hojoong-daniel-kim/scm-test.git</developerConnection>
+    <connection>scm:git:ssh://git@github.com/hojoong-daniel-kim/scm-test.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/hojoong-daniel-kim/scm-test.git</developerConnection>
     <url>https://github.com/hojoong-daniel-kim/scm-test.git</url>
   </scm>
 
